@@ -1,0 +1,23 @@
+Gerenciamento de Modelos:
+
+1- Opção para armazenar e organizar diferentes modelos de placas.
+Editor para personalizar textos, fontes, cores e imagens dentro dos modelos.
+
+Entrada de Dados:
+
+2 - Campos para inserir informações promocionais (produto, preço, desconto, validade, etc.).
+Upload de imagens dos produtos ou logotipos.
+
+Exportação e Impressão:
+
+3 - Geração de arquivos em PDF, PNG ou JPEG.
+Configurações de tamanho para impressão (A4, A3, etc.).
+
+Banco de Dados de Promoções:
+
+4 - Histórico de placas emitidas para reutilização ou consulta futura.
+
+
+Estatísticas:
+
+5 - Relatórios sobre promoções emitidas, frequência de uso, e popularidade de modelos.
